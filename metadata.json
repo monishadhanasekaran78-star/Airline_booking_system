@@ -1,0 +1,6 @@
+{
+  "name": "SkyBook - Airline Booking System",
+  "description": "Airline Booking System with real-time seat selection, seat locking, dynamic pricing, and booking management for Indian domestic flights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
